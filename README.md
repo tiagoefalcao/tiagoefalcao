@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tiagoefalcao.
+- 👀 I’m interested in codding for my job.
+- 🌱 I’m currently learning c++.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me email.
